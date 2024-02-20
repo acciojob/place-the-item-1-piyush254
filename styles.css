@@ -1,2 +1,44 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    font-size: 50px;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
-/* Your CSS Code here. */
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: #964242;
+    
+}
+.div2{
+    height: 200px;
+    width: 200px;
+    background-color: #501616;
+}
+.div3{
+    height: 200px;
+    width: 200px;
+    background-color: #771515;
+}
+.div4{
+    height: 200px;
+    width: 200px;
+    background-color: #2a8dab;
+}
+.div5{
+    height: 200px;
+    width: 200px;
+    background-color: #831e1e;
+}
+.div6{
+    height: 200px;
+    width: 200px;
+    background-color: #9642464f;
+}
+.div7{
+    height: 200px;
+    width: 200px;
+    background-color: #964242;
+}
